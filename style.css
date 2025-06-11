@@ -32,7 +32,7 @@ a:hover{
     padding-bottom: 35px;
 }
 #header .logo{
-    max-width: 190px;
+    max-width: 300px;
     line-height: 0;
 }
 #header .logo a{
@@ -52,7 +52,7 @@ a:hover{
         padding-bottom: 25px;
     }
     #header .logo{
-        max-width: 120px;
+        max-width: 200px;
     }    
 }
 .mainvisual{
